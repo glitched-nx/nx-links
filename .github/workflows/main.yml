@@ -2,40 +2,56 @@ name: update_files
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
   nx-links:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 15
+    
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Set up Python 3.x
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.x
+          python-version: '3.x' 
+
+      - name: Cache pip packages
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
       - name: Install dependencies
         run: |
-          if [ -f ./scripts/requirements.txt ]; then pip3 install -r ./scripts/requirements.txt; fi
+          python -m pip install --upgrade pip
+          if [ -f ./scripts/requirements.txt ]; then pip install -r ./scripts/requirements.txt; fi
 
-      - name: update files
+      - name: Update files
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.UPD_FILES_TOKEN }}
         run: |
           python3 ./scripts/main.py -gt="$GITHUB_TOKEN"
 
-      - name: push changes
+      - name: Push changes
         run: |
           git config --global user.name 'HomletBot'
           git config --global user.email '90281142+Homletbot@users.noreply.github.com'
           CHANGED=$(git diff --name-only)
           git add .
           if [[ `git status --porcelain` ]]; then
-            git commit -m "automatic: updated files ($CHANGED)"
+            TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
+            git commit -m "auto: Files updated $TIMESTAMP
+            
+            Changed files:
+            $CHANGED"
             git push
           else
-            echo "Nothing to commit!"
+            echo "No changes detected"
           fi

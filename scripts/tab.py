@@ -11,5 +11,5 @@ class Tab(BaseModule):
             "App" : True,
             "Homebrew" : True,
             "Firmware" : True,
-            "Sigpatches" : False
+            "sigpatches" : True
         }

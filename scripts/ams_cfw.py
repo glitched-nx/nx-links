@@ -5,9 +5,9 @@ class Ams_cfw(CodebergModule):
     def __init__(self):
         self.config = [
             {
-                "username": "Zoria",
-                "reponame": "AmoPack-Vanilla",
-                "assetPatterns": [".*AtmoPack-Vanilla.*\\.zip"]
+                "username": "glitched-nx",
+                "reponame": "NX_blue_pack",
+                "assetPatterns": [".*blue_pack_NX.*\\.zip"]
             }
         ]
         CodebergModule.__init__(self)

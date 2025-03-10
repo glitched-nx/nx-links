@@ -4,7 +4,7 @@ import argparse
 import json
 import requests
 
-parser = argparse.ArgumentParser(description="Get links for AtmoPackUpdater")
+parser = argparse.ArgumentParser(description="Get links for blue_pack_Updater")
 base_url = "https://codeberg.org/api/v1/repos"
 
 class CodebergModule:
