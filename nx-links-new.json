@@ -1,0 +1,174 @@
+{
+    "ams_cfw": {
+        "NX blue pack - AIO CFW Pack | BLUE 1.8.0 | FW 19.0.1": "https://github.com/glitched-nx/blue_pack_nx/releases/latest/download/blue_pack_nx.zip",
+        "version": "v3.1.0"
+    },
+    "firmwares": {
+        "Firmware 19.0.1 (Rebootless Update)": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1r/Firmware.19.0.1.Rebootless.zip",
+        "Firmware 19.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip",
+        "Firmware 19.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.0/Firmware.19.0.0.zip",
+        "Firmware 18.1.0 (Rebootless Update)": "https://github.com/THZoria/NX_Firmware/releases/download/18.1.0r/Firmware.18.1.0.Rebootless.zip",
+        "Firmware 18.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/18.1.0/Firmware.18.1.0.zip",
+        "Firmware 18.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/18.0.1/Firmware.18.0.1.zip",
+        "Firmware 18.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/18.0.0/Firmware.18.0.0.zip",
+        "Firmware 17.0.1 (Rebootless Update)": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.1r/Firmware.17.0.1.Rebootless.Update.zip",
+        "Firmware 17.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.1/Firmware.17.0.1.zip",
+        "Firmware 17.0.0 (Rebootless Update)": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.0r/Firmware.17.0.0.Rebootless.Update.zip",
+        "Firmware 17.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.0/Firmware.17.0.0.zip",
+        "Firmware 16.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/16.1.0/Firmware.16.1.0.zip",
+        "Firmware 16.0.3 (Rebootless Update 2)": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3r2/Firmware.16.0.3.Rebootless.Update.2.zip",
+        "Firmware 16.0.3 (Rebootless Update)": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3r/Firmware.16.0.3.Rebootless.Update.zip",
+        "Firmware 16.0.3": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3/Firmware.16.0.3.zip",
+        "Firmware 16.0.2": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.2/Firmware.16.0.2.zip",
+        "Firmware 16.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.1/Firmware.16.0.1.zip",
+        "Firmware 16.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.0/Firmware.16.0.0.zip",
+        "Firmware 15.0.1 (Rebootless Update)": "https://github.com/THZoria/NX_Firmware/releases/download/15.0.1r/Firmware.15.0.1.Rebootless.Update.zip",
+        "Firmware 15.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/15.0.1/Firmware.15.0.1.zip",
+        "Firmware 15.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/15.0.0/Firmware.15.0.0.zip",
+        "Firmware 14.1.2 (Rebootless Update 3)": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.2r3/Firmware.14.1.2.Rebootless.Update.3.zip",
+        "Firmware 14.1.2 (Rebootless Update 2)": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.2r2/Firmware.14.1.2.Rebootless.Update.2.zip",
+        "Firmware 14.1.2 (Rebootless Update)": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.2r/Firmware.14.1.2.Rebootless.Update.zip",
+        "Firmware 14.1.2": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.2/Firmware.14.1.2.zip",
+        "Firmware 14.1.1": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.1/Firmware.14.1.1.zip",
+        "Firmware 14.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/14.1.0/Firmware.14.1.0.zip",
+        "Firmware 14.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/14.0.0/Firmware.14.0.0.zip",
+        "Firmware 13.2.1": "https://github.com/THZoria/NX_Firmware/releases/download/13.2.1/Firmware.13.2.1.zip",
+        "Firmware 13.2.0": "https://github.com/THZoria/NX_Firmware/releases/download/13.2.0/Firmware.13.2.0.zip",
+        "Firmware 13.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/13.1.0/Firmware.13.1.0.zip",
+        "Firmware 13.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/13.0.0/Firmware.13.0.0.zip",
+        "Firmware 12.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/12.1.0/Firmware.12.1.0.zip",
+        "Firmware 12.0.3": "https://github.com/THZoria/NX_Firmware/releases/download/12.0.3/Firmware.12.0.3.zip",
+        "Firmware 12.0.2": "https://github.com/THZoria/NX_Firmware/releases/download/12.0.2/Firmware.12.0.2.zip",
+        "Firmware 12.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/12.0.1/Firmware.12.0.1.zip",
+        "Firmware 12.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/12.0.0/Firmware.12.0.0.zip",
+        "Firmware 11.0.1 Rebootless Update": "https://github.com/THZoria/NX_Firmware/releases/download/11.0.1r/Firmware.11.0.1r.zip",
+        "Firmware 11.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/11.0.0/Firmware.11.0.0.zip",
+        "Firmware 10.2.0": "https://github.com/THZoria/NX_Firmware/releases/download/10.2.0/Firmware.10.2.0.zip",
+        "Firmware 10.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/10.1.0/Firmware.10.1.0.zip",
+        "Firmware 10.0.4": "https://github.com/THZoria/NX_Firmware/releases/download/10.0.4/Firmware.10.0.4.zip",
+        "Firmware 10.0.3": "https://github.com/THZoria/NX_Firmware/releases/download/10.0.3/Firmware.10.0.3.zip",
+        "Firmware 10.0.2": "https://github.com/THZoria/NX_Firmware/releases/download/10.0.2/Firmware.10.0.2.zip",
+        "Firmware 10.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/10.0.1/Firmware.10.0.1.zip",
+        "Firmware 10.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/10.0.0/Firmware.10.0.0.zip",
+        "Firmware 9.2.0": "https://github.com/THZoria/NX_Firmware/releases/download/9.2.0/Firmware.9.2.0.zip",
+        "Firmware 9.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/9.1.0/Firmware.9.1.0.zip",
+        "Firmware 9.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/9.0.0/Firmware.9.0.0.zip",
+        "Firmware 8.1.1": "https://github.com/THZoria/NX_Firmware/releases/download/8.1.1/Firmware.8.1.1.zip",
+        "Firmware 8.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/8.1.0/Firmware.8.1.0.zip",
+        "Firmware 8.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/8.0.1/Firmware.8.0.1.zip",
+        "Firmware 8.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/8.0.0/Firmware.8.0.0.zip",
+        "Firmware 7.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/7.0.1/Firmware.7.0.1.zip",
+        "Firmware 7.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/7.0.0/Firmware.7.0.0.zip",
+        "Firmware 6.2.0": "https://github.com/THZoria/NX_Firmware/releases/download/6.2.0/Firmware.6.2.0.zip",
+        "Firmware 6.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/6.1.0/Firmware.6.1.0.zip",
+        "Firmware 6.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/6.0.1/Firmware.6.0.1.zip",
+        "Firmware 6.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/6.0.0/Firmware.6.0.0.zip",
+        "Firmware 5.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/5.1.0/Firmware.5.1.0.zip",
+        "Firmware 5.0.2": "https://github.com/THZoria/NX_Firmware/releases/download/5.0.2/Firmware.5.0.2.zip",
+        "Firmware 5.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/5.0.1/Firmware.5.0.1.zip",
+        "Firmware 5.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/5.0.0/Firmware.5.0.0.zip",
+        "Firmware 4.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/4.1.0/Firmware.4.1.0.zip",
+        "Firmware 4.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/4.0.1/Firmware.4.0.1.zip",
+        "Firmware 4.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/4.0.0/Firmware.4.0.0.zip",
+        "Firmware 3.0.2": "https://github.com/THZoria/NX_Firmware/releases/download/3.0.2/Firmware.3.0.2.zip",
+        "Firmware 3.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/3.0.1/Firmware.3.0.1.zip",
+        "Firmware 3.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/3.0.0/Firmware.3.0.0.zip",
+        "Firmware 2.3.0": "https://github.com/THZoria/NX_Firmware/releases/download/2.3.0/Firmware.2.3.0.zip",
+        "Firmware 2.2.0": "https://github.com/THZoria/NX_Firmware/releases/download/2.2.0/Firmware.2.2.0.zip",
+        "Firmware 2.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/2.1.0/Firmware.2.1.0.zip",
+        "Firmware 2.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/2.0.0/Firmware.2.0.0.zip",
+        "Firmware 1.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/1.0.0/Firmware.1.0.0.zip",
+        "Firmware 1.0.0 Pre-Release": "https://github.com/THZoria/NX_Firmware/releases/download/1.0.0pr/Firmware.1.0.0-7.pr.zip"
+    },
+    "app": {
+        "bluepack-Updater": "https://github.com/glitched-nx/bluepack-Updater/releases/download/1.0.0/bluepack-Updater.nro",
+        "version": "1.0.0"
+    },
+    "homebrew": {
+        "dbi": {
+            "name": "dbi",
+            "link": "https://github.com/rashevskyv/dbi/releases/download/750ru/DBI.nro",
+            "version": "750ru",
+            "homebrew": true
+        },
+        "EdiZon": {
+            "name": "EdiZon",
+            "link": "https://github.com/WerWolv/EdiZon/releases/download/v3.1.0/EdiZon.nro",
+            "version": "v3.1.0",
+            "homebrew": true
+        },
+        "FTPD": {
+            "name": "FTPD",
+            "link": "https://github.com/mtheall/ftpd/releases/download/v3.2.1/ftpd.nro",
+            "version": "v3.2.1",
+            "homebrew": true
+        },
+        "Goldleaf": {
+            "name": "Goldleaf",
+            "link": "https://github.com/XorTroll/Goldleaf/releases/download/0.10.1/Goldleaf.nro",
+            "version": "0.10.1",
+            "homebrew": true
+        },
+        "Hekate-Toolbox": {
+            "name": "Hekate-Toolbox",
+            "link": "https://github.com/WerWolv/Hekate-Toolbox/releases/download/v4.0.3/HekateToolbox.nro",
+            "version": "v4.0.3",
+            "homebrew": true
+        },
+        "JKSV": {
+            "name": "JKSV",
+            "link": "https://github.com/J-D-K/JKSV/releases/download/11/05/2024/JKSV.nro",
+            "version": "11/05/2024",
+            "homebrew": true
+        },
+        "NX-Activity-Log": {
+            "name": "NX-Activity-Log",
+            "link": "https://github.com/tallbl0nde/NX-Activity-Log/releases/download/v1.4.0/NX-Activity-Log.nro",
+            "version": "v1.4.0",
+            "homebrew": true
+        },
+        "Checkpoint": {
+            "name": "Checkpoint",
+            "link": "https://github.com/BernardoGiordano/Checkpoint/releases/download/v3.8.2/Checkpoint.nro",
+            "version": "v3.8.2",
+            "homebrew": true
+        },
+        "MissionControl": {
+            "name": "MissionControl",
+            "link": "https://github.com/ndeadly/MissionControl/releases/download/v0.12.0/MissionControl-0.12.0-master-6e41a4d.zip",
+            "version": "v0.12.0",
+            "homebrew": false        
+        },
+        "SysDVR": {
+            "name": "sys-con",
+            "link": "https://github.com/o0Zz/sys-con/releases/download/1.5.1/sys-con-1.5.1.zip",
+            "version": "v1.5.1",
+            "homebrew": false
+        },
+        "nx-ovlloader": {
+            "name": "nx-ovlloader",
+            "link": "https://github.com/ppkantorski/nx-ovlloader/releases/download/v1.0.9/nx-ovlloade+.zip",
+            "version": "v1.0.9",
+            "homebrew": false
+        },
+        "ultrahand": {
+            "name": "UltraHAND",
+            "link": "https://github.com/glitched-nx/UltraHAND/releases/download/v1.8.2/ovlmenu.zip",
+            "version": "v1.8.2",
+            "homebrew": false
+        },
+        "quickReloader": {
+            "name": "quickReloader",
+            "link": "https://github.com/glitched-nx/quickReloader/releases/download/v1.3.1/quickReloader.nro",
+            "version": "v1.3.1",
+            "homebrew": true
+        }
+    },
+    "tab": {
+        "Pack": true,
+        "App": true,
+        "Homebrew": true,
+        "Firmware": true,
+        "Sigpatches": false
+    }
+}
